@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: Com.self.SpringBoot.YAMLFile
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/product
+    username: root
+    password: "Shiva@#$&1232"
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    show-sql: true
+    # hibernate:
+    #   ddl-auto: create
+
+
+

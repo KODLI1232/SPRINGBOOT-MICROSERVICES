@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "server.Servlet.context-path",
+  "type": "java.lang.String",
+  "description": "A description for 'server.Servlet.context-path'"
+}]}
