@@ -24,5 +24,10 @@ public class UserController {
 	public String secureApi() {
 		return "You are authenticated";
 	}
+	
+	@GetMapping("/")
+	public String home() {
+	    return "Home Page";
+	}
 
 }
